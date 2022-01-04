@@ -1,0 +1,24 @@
+.bg-darkblue {
+    background-color: #012940;
+}
+
+.navbar-brand {
+    font-weight: 800;
+    font-size: 24px;
+}
+
+.category-item {
+    background-color: #012940;
+    border-style: solid;
+    border-color: #fff;
+    height: 20vh;
+}
+
+.header {
+    background-color: #365c72;
+    height: 20vh;
+}
+
+.footer {
+    background-color: #012940;
+}
