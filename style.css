@@ -14,6 +14,10 @@
     height: 20vh;
 }
 
+.category-item h4 {
+    margin-top: 40px;
+}
+
 .header {
     background-color: #365c72;
     height: 20vh;
